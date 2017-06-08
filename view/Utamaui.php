@@ -1,10 +1,10 @@
 <?php 
 
-require_once 'View.php';
+require_once 'berita.php';
 /**
 * 
 */
-class Utamaui extends View
+class Utamaui extends berita
 {
 	
 	public function tampilkanberita()
